@@ -4,9 +4,8 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
-shap
-flask
+shape
+Flask
 streamlit
 requests
-pickel
--e .
+gunicorn
